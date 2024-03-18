@@ -1225,6 +1225,8 @@ Clean <User:User Mention> <Num:Whole number>
 
 ### Reason
 
+**Aliases:** editreason
+
 Add/Edit a modlog reason
 
 **Usage:**
